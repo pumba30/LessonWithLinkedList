@@ -27,4 +27,6 @@ public class DemoSortMont {
         Collections.sort(mountains, heightCompare);
         System.out.println("Сортировка по высоте: \n" + mountains.toString());
     }
+
+
 }
