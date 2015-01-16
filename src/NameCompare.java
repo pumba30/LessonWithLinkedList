@@ -5,7 +5,6 @@ import java.util.Comparator;
  */
 public class NameCompare implements Comparator<Mountain> {
     @Override
-
     public int compare(Mountain one, Mountain two) {
         return one.getName().compareTo(two.getName());
     }
