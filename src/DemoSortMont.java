@@ -28,5 +28,4 @@ public class DemoSortMont {
         System.out.println("Сортировка по высоте: \n" + mountains.toString());
     }
 
-
 }
